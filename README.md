@@ -2,12 +2,12 @@
 
 🎓 **Student at SRM Chennai**  
 💻 **Passionate Coder & Tech Enthusiast**  
-I’m a student who loves working with all kinds of programming languages—**C**, **C++**, **Python**, **Java**—and I’m currently diving into frontend development!
+I love working with all kinds of programming languages—**C**, **C++**, **Python**, **Java**—and I’m currently diving into frontend development. I enjoy playing cricket and other sports, and I’m always eager to learn new technologies and tackle challenging projects!
 
 ---
 
 ## 🚀 Projects
-- **Event Registration & Attendance Tracker:**  
+- **Event Registration & Attendance Tracker**  
   Built my own system to streamline event registrations and track attendance, combining backend logic and frontend skills.
 
 ---
@@ -26,15 +26,9 @@ I’m a student who loves working with all kinds of programming languages—**C*
 
 ---
 
-## 🏏 About Me
-- Student at **SRM Chennai**
-- Big fan of **cricket** and enjoy playing many other sports
-- Always eager to learn new technologies and take on challenging projects
-
----
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneh-prasad-436081312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneh-prasad-436081312)  
+✉️ Email: snehprasad07@gmail.com
 
 ---
 
