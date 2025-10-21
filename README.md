@@ -10,6 +10,9 @@ I love working with all kinds of programming languages—**C**, **C++**, **Pytho
 - **Event Registration & Attendance Tracker**  
   Built my own system to streamline event registrations and track attendance, combining backend logic and frontend skills.
 
+- **Unified Banking System (Ongoing)** 
+  A full-stack multi-bank aggregator portal built with Spring Boot + Tailwind CSS + Vanilla JS, integrating secure account management and modern UI.
+
 ---
 
 ## 🛠️ Tech Stack
