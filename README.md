@@ -18,7 +18,6 @@ I'm a Computer Science student at SRM Chennai. I love solving problems, building
 - **Unified Banking System (Ongoing)**  
   A full-stack multi-bank aggregator portal with secure account management and a modern UI, built using Spring Boot and Tailwind CSS.
 
-(If you want, I can link each project to its repo or a live demo — tell me which repos to link.)
 
 ---
 
@@ -96,7 +95,7 @@ Notes:
 </div>
 
 Notes on removed trophies and image reliability
-- I removed the GitHub Trophies card because you requested it and it was causing an error. The trophies endpoint (github-profile-trophy.vercel.app) can be flaky for some users.
+- I removed the GitHub Trophies card because you requested it and it was causing an error. The trophies endpoint can be flaky for some users.
 - If you'd like a replacement visual, I can add the profile-details card or other stable stats instead.
 
 > Let’s connect, collaborate, and build something amazing together!
