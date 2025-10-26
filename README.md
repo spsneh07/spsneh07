@@ -19,6 +19,7 @@ I'm a Computer Science student at SRM Chennai. I love solving problems, building
   A full-stack multi-bank aggregator portal with secure account management and a modern UI, built using Spring Boot and Tailwind CSS.
 
 
+
 ---
 
 ## 🛠️ Tech Stack
