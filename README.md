@@ -95,9 +95,6 @@ Notes:
 
 </div>
 
-Notes on removed trophies and image reliability
-- I removed the GitHub Trophies card because you requested it and it was causing an error. The trophies endpoint can be flaky for some users.
-- If you'd like a replacement visual, I can add the profile-details card or other stable stats instead.
 
 > Let’s connect, collaborate, and build something amazing together!
 
