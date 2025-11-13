@@ -1,4 +1,4 @@
-# Hi there, I'm Sneh Prasad! 👋
+# Hi there, I'm Sneh Prasad! 
 
 I'm a Computer Science student at SRM Chennai. I love solving problems, building projects, and learning new technologies — especially in C, C++, Python, Java, and modern web development. When I'm not coding, you'll find me playing cricket or exploring other sports.
 
