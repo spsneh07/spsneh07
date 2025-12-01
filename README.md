@@ -15,7 +15,7 @@ I'm a Computer Science student at SRM Chennai. I love solving problems, building
 - **Event Registration & Attendance Tracker**  
   A system I built to streamline event registrations and track attendance with an easy-to-use UI and a backend for processing and reports.
 
-- **Unified Banking System **  
+- **Unified Banking System**  
   A full-stack multi-bank aggregator portal with secure account management and a modern UI, built using Spring Boot and Tailwind CSS.
 
 
