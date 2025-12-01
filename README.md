@@ -1,5 +1,5 @@
 # Hi there, I'm Sneh Prasad! 
-
+ <img src="https://komarev.com/ghpvc/?username=spsneh07&style=flat" alt="Profile views" />
 I'm a Computer Science student at SRM Chennai. I love solving problems, building projects, and learning new technologies — especially in C, C++, Python, Java, and modern web development. When I'm not coding, you'll find me playing cricket or exploring other sports.
 
 ---
@@ -86,7 +86,6 @@ Notes:
 
 <!-- Profile views (gh-pvc) and quick stats badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=spsneh07&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/spsneh07?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/spsneh07?style=social" alt="Stars" />
   <img src="https://img.shields.io/github/last-commit/spsneh07/spsneh07?style=flat&label=last%20commit" alt="Last commit" />
