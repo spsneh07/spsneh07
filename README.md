@@ -1,80 +1,28 @@
 # Hi there, I'm Sneh Prasad! 
 <img src="https://komarev.com/ghpvc/?username=spsneh07&style=flat" alt="Profile views" />
-I'm a Computer Science student at SRM Chennai. I love solving problems, building projects, and learning new technologies — especially in C, C++, Python, Java, and modern web development.
+
+# 💫 About Me:
+🔭 I’m currently working on frontend projects using React & Next.js, focusing on clean UI and performance  <br>🤝 I’m looking to collaborate on web apps, open-source projects, and hackathon ideas  <br>🧠 I’m looking for help with system design, backend scaling, and real-world project architecture  <br>🌱 I’m currently learning full-stack development, APIs, databases, and modern JavaScript frameworks  <br>💬 Ask me about React, Next.js, Git/GitHub, frontend performance, and project setup  <br>⚡ Fun fact: I enjoy turning rough ideas into polished, production-ready interfaces<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sp.sneh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sneh-prasad-436081312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehprasad07@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=spsneh07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=spsneh07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=spsneh07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=spsneh07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=spsneh07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🔭 Current focus
-- Frontend development (HTML, CSS, JavaScript) and improving full‑stack skills.
-- Building a Unified Banking System (Spring Boot + Tailwind CSS + vanilla JS).
-- Improving algorithm & data structures skills through practice and competitions.
-
----
-
-## 🚀 Featured Projects
-- **Event Registration & Attendance Tracker**  
-  System to streamline event registrations and track attendance with an easy-to-use UI and backend for processing and reports.
-- **Unified Banking System**  
-  Full-stack multi-bank aggregator portal with secure account management and a modern UI, built using Spring Boot and Tailwind CSS.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/VanillaJS-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Vanilla JS" />
-<img src="https://img.shields.io/badge/REST_API-00AEEF?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/JWT-333333?style=for-the-badge&logo=jwt&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
-
-Notes:
-- Spring Boot, Tailwind CSS and vanilla JS are highlighted for the Unified Banking System.
-- PostgreSQL/MySQL and Docker are common choices for production-ready services — add the one you actually used and I’ll link to or document setup details.
-- JWT / REST / Postman indicate common auth and API tools used for secure APIs and testing.
-
----
-
-## 🌐 Connect with me
-- LinkedIn: [sneh-prasad-436081312](https://www.linkedin.com/in/sneh-prasad-436081312)  
-- Email: snehprasad07@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=spsneh07&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spsneh07&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spsneh07&theme=dracula&area=true&hide_border=true" alt="Contribution activity graph" />
-<br/>
-<!-- Streak graph removed due to frequent reliability issues. -->
-<p>
-  <img src="https://img.shields.io/github/followers/spsneh07?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/spsneh07?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/spsneh07/spsneh07?style=flat&label=last%20commit" alt="Last commit" />
-  <img src="https://img.shields.io/github/issues/spsneh07/spsneh07?style=flat&label=open%20issues" alt="Open issues" />
-</p>
-</div>
-
-> For streak/activity, visit my [GitHub contributions page](https://github.com/spsneh07).
-
-> Let’s connect, collaborate, and build something amazing together!
+[![](https://visitcount.itsvg.in/api?id=spsneh07&icon=0&color=0)](https://visitcount.itsvg.in)
