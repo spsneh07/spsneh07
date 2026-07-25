@@ -3,11 +3,11 @@
   GITHUB PROFILE README — Sneh Prasad
   ============================================================
   BEFORE PUBLISHING, replace the following placeholders:
-    1. <LINKEDIN_URL>   -> your LinkedIn profile URL
-    2. <PORTFOLIO_URL>  -> your personal portfolio website URL
-    3. <EMAIL_ADDRESS>  -> snehprasad07@gmail.com (or preferred contact email)
-    4. <REPO_URL_...>   -> repository links for each project
-    5. <DEMO_URL_...>   -> live demo links (remove the badge if no demo exists)
+    1. <PORTFOLIO_URL>  -> your personal portfolio website URL (not in resume — add if you have one)
+    2. <REPO_URL_...>   -> repository links for each project
+    3. <DEMO_URL_...>   -> live demo links (remove the badge if no demo exists)
+  LinkedIn, email, and publication/patent/certification links have already
+  been filled in from your resume.
   This file goes in a repo named exactly "spsneh07" (your GitHub username)
   for it to render on your profile page.
   ============================================================
@@ -22,15 +22,15 @@
 <img src="https://komarev.com/ghpvc/?username=spsneh07&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
 
 <p>
-  <a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sneh-prasad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="<PORTFOLIO_URL>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:<EMAIL_ADDRESS>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sp_sneh07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:snehprasad07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sp_sneh07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=90&section=header" width="100%"/>
 
 ## About Me
 
@@ -49,48 +49,48 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 
 **Database**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
 **Cloud**
 <br/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
 
 **AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 
 **Tools**
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
 </div>
 
@@ -144,7 +144,7 @@ Attention-based deep neural network for phishing website detection — published
 **Highlights:** Published in Springer Nature Conference Proceedings (2025), co-author & presenter
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](<REPO_URL_PHISHING_DETECTION>)
-[![Paper](https://img.shields.io/badge/Publication-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)](<PUBLICATION_URL_PHISHING_DETECTION>)
+[![Paper](https://img.shields.io/badge/Publication-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-24929-6_41)
 
 </td>
 </tr>
@@ -182,7 +182,7 @@ Full-stack banking application handling account and transaction workflows.
 
 ## 📜 Certifications
 
-- ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- ☁️ **[Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/SnehPrasad-6265/4170079B5B48D79C?sharingId=959D37FCF549BBDD)**
 - 🎓 Full-Stack Web Development Bootcamp — Udemy
 - 🤖 Generative AI Foundations — upGrad
 - 📘 NPTEL: Java, OOP, DBMS
@@ -191,13 +191,19 @@ Full-stack banking application handling account and transaction workflows.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements Timeline
 
-- 📄 4 co-authored publications: IEEE Xplore (×2), Springer Nature, Taylor & Francis
-- 💡 2 filed patents with IP India — Smart Imaging Device for Crop Yield Estimation; Agricultural Farm Automation Device
-- 🧑‍💻 Professional memberships: ACM, IAENG, IEEE
-- ☁️ Microsoft Azure Data Fundamentals (DP-900) certified
-- 🏢 AI/ML Internship at C-DAC Pune
+- **2024** — Filed Patent: [Agricultural Farm Automation Device](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDMyNTAxLTAwMQ==&CNo=MTg5MzMw) (App. No. 432501-001)
+- **2025** — Filed Patent: [Smart Imaging Device for Crop Yield Estimation](https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDU2MzU1LTAwMQ==&CNo=MjA1NDEy) (App. No. 456355-001)
+- **2025** — Published: [Phishing Website Detection Using Attention-Based Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-032-24929-6_41) — Springer Nature, co-author & presenter
+- **2025** — Published: [AI in Social Media Marketing: Analyzing Trends and Predicting Consumer Sentiment](https://ieeexplore.ieee.org/document/10940649) — IEEE Xplore, co-author
+- **2025** — Full Stack Developer Intern — Vital Skills × Tech Kriti, IIT Kanpur
+- **2026** — Certified: [Microsoft Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/SnehPrasad-6265/4170079B5B48D79C?sharingId=959D37FCF549BBDD)
+- **2026** — Published: [Big Data in Healthcare: Predictive Modeling for Patient Outcomes](https://ieeexplore.ieee.org/document/11545343) — IEEE Xplore, co-author
+- **2026** — Published: [AI-Driven Hiring Practices: Perceptions, Ethics, and Workforce Implications](https://doi.org/10.1201/9781003610861-8) — Taylor & Francis, co-author
+- **2026** — AI & Machine Learning Intern — C-DAC Pune
+
+**Professional memberships:** ACM · IAENG · IEEE
 
 ---
 
@@ -228,9 +234,29 @@ Full-stack banking application handling account and transaction workflows.
 
 ---
 
+## 🛠️ Currently Working On
+
+<!-- TODO: fill in with whatever repo/feature is actually active right now —
+     left generic since no specific in-progress project was given. -->
+- Sharpening Data Structures & Algorithms for internship interviews
+- Refining and open-sourcing past ML/DL project pipelines
+
+---
+
 ## 🎯 Currently Learning
 
 `DSA (C++)` `System Design Basics` `AI Engineering` `Advanced Azure Services`
+
+---
+
+## 🎯 Goals for 2026
+
+<!-- TODO: replace with your actual goals — left as an editable checklist
+     since specific 2026 targets weren't provided. -->
+- [ ] Land a Software Engineering / AI-ML internship at a product-based company
+- [ ] Reach a target rating/rank on LeetCode
+- [ ] Ship and open-source at least one polished full-stack project
+- [ ] Add another publication or extend current research work
 
 ---
 
@@ -238,13 +264,17 @@ Full-stack banking application handling account and transaction workflows.
 
 <div align="center">
 
-<a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sneh-prasad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="<PORTFOLIO_URL>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:<EMAIL_ADDRESS>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:snehprasad07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Data.gif" alt="Coding animation" width="500"/>
 
 <br/>
 
@@ -255,3 +285,5 @@ Full-stack banking application handling account and transaction workflows.
 <div align="center">
 <sub>Thanks for stopping by — feel free to explore the repos above ⭐</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=90&section=footer" width="100%"/>
